@@ -1,3 +1,5 @@
+# This is the game of black jack with its own betting system and automated dealer to play against. 
+
 import random
 
 suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
